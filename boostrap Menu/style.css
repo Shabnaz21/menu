@@ -1,0 +1,30 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+
+ body{
+    min-height: auto;
+    background: url(images/bg_image.jpg) no-repeat;
+    background-size: cover;
+ }
+
+ nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  nav a {
+    display: block;
+    padding: 0 10px;
+    color: black;
+    font-size: 18px;
+    line-height: 30px;
+    text-decoration: none;
+  }
+
+ nav a:hover{
+    background-color: #E6AE5D;
+    color: #fff;
+}
+

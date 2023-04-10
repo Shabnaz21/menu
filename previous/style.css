@@ -1,3 +1,4 @@
+<<<<<<< HEAD:style.css
 li:after {
   content: '\f099';
 }
@@ -90,6 +91,35 @@ nav ul ul li:hover>a {
 
 @media screen and (max-width: 800px) {
   nav ul li {
+=======
+
+body{
+min-height: auto;
+background: url(./e-bikes-for-hunting.jpg) no-repeat;
+background-size: cover;
+}
+
+
+nav {
+    background-color:	#FBF3D5;
+    position: relative;
+  }
+  
+  nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  nav ul li {
+    display: inline-block;
+    background-color: #F6F6F6;
+    
+  }
+
+  
+  nav a {
+>>>>>>> 0ebdf71 (2nd day):previous/style.css
     display: block;
     width: 100%;
   }
